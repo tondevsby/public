@@ -1,8 +1,8 @@
 {
   "name": "tickets",
   "description": "tondevsby meetup tickets",
-  "image": "https://github.com/GreenTON-global/public/blob/main/collections/usdt_test/image.jpeg?raw=true",
-  "cover_image": "https://github.com/GreenTON-global/public/blob/main/collections/usdt_test/header.jpeg?raw=true",
+  "image": "https://raw.githubusercontent.com/tondevsby/public/refs/heads/main/nft-seller/image.jpeg",
+  "cover_image": "https://raw.githubusercontent.com/tondevsby/public/refs/heads/main/nft-seller/header.jpeg",
   "social_links": [],
   "external_url": "https://t.me/tondevsby",
   "marketplace": "https://t.me/tondevsby_bot"
